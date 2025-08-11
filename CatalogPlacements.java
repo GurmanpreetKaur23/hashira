@@ -1,17 +1,12 @@
 package hashira;
 
-// IOException: to handle file reading errors
-// BigInteger: to handle HUGE numbers
-// Files, Paths: to read the file 
-// List, ArrayList: to store numbers
-// Matcher, Pattern: to search text using a pattern (regex)
-import java.io.IOException;
-import java.math.BigInteger;
-import java.nio.file.Files;
-import java.nio.file.Paths;
+import java.io.IOException; // to handle file reading errors
+import java.math.BigInteger; // to handle HUGE numbers
+import java.nio.file.Files; // to read the file 
+import java.nio.file.Paths; // to read the file 
 import java.util.*;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
+import java.util.regex.Matcher; // to search text using a pattern (regex)
+import java.util.regex.Pattern; // to search text using a pattern (regex)
 
 public class CatalogPlacements {
 
